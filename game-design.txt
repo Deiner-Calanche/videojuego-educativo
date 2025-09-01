@@ -23,7 +23,6 @@ Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará
 [MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de
 manera efectiva.
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
-[PLATAFORMAS]. Además, se implementarán características como
-[CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de
-juego fluida y atractiva.
+El juego se desarrollará usando Unity con C#, con soporte para PC y Android. Además, se 
+implementarán características como un panel de control para profesores, sistema offline y logros 
+visuales para garantizar una experiencia fluida y atractiva.
